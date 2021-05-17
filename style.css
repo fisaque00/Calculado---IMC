@@ -44,12 +44,12 @@ main{
     height: 50px;
     border: none;
     outline: 0;
-    font: bold 1.5rem serif;
+    font: bold 1.2rem serif;
     text-align: center;
 }
 
 .input label{
-    font: bold 1.5rem serif;
+    font: bold 1.2rem serif;
 }
 
 button{
@@ -70,10 +70,10 @@ button{
     width: 300px;
     height: 150px;
     border-radius: 5px;
-    font: italic 1.5rem serif;
+    font: italic 1.2rem serif;
     box-shadow: 0px opx 10px black;
     background: black;
-    color: coral;
+    color: rgb(80, 255, 255);
     padding: 20px;
     box-sizing:  border-box;
     user-select: none;
